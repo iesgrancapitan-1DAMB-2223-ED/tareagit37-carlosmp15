@@ -48,3 +48,32 @@ Si accedemos al Github veremos como hay un nuevo pull request.
 Ya solo tendríamos que aceptar el cambio sugerido por la otra persona.
 
 ![imagen10](imagenes/cap10.png)
+
+**8)**
+Creamos un tag a partir de un commit ya creado.
+
+Tenemos que usar el id del commit.
+
+![imagen11](imagenes/cap11.png)
+
+![imagen12](imagenes/cap12.png)
+
+**9)**
+Subimos los cambios asignándoselo al tag "v1.0".
+
+![imagen13](imagenes/cap13.png)
+
+
+![imagen14](imagenes/cap14.png)
+
+**10)**
+Clonamos el repositorio desde el tag creado.
+
+
+![imagen14](imagenes/cap14.png)
+
+
+
+
+
+
