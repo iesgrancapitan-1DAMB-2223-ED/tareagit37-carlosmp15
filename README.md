@@ -70,7 +70,7 @@ Subimos los cambios asignándoselo al tag "v1.0".
 Clonamos el repositorio desde el tag creado.
 
 
-![imagen14](imagenes/cap14.png)
+![imagen15](imagenes/cap15.png)
 
 
 
